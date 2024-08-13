@@ -1,0 +1,17 @@
+Din fiserul principal
+1.Pe un terminal:
+cd backend
+npm run start
+2.Pe al doilea terminal
+cd frontend
+npm run start
+
+Utilizare aplicatie:
+Pe pagina principala se afla toate lucarile publice ale utilizatorilor.
+Se poate vitiza pagina de profil a fiecarui utilizator.
+Daca pagina de utilizator este a mea(personala) => pun la dispozitie optiuni pentru add, update si delete (in legatura cu opera de arta)
+Daca pagina de utilizator nu este a mea, pot vedea doar lucrarile facute publice de catre acesta.
+
+Contul dvs pus la dispozitie este:
+"username":"admin"
+"password":"Admin1240.."
